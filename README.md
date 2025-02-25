@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Secret Santa Assignment Script automates the process of assigning Secret Children (gift recipients) to employees based on provided employee and previous year's assignment data. It ensures that employees do not assign themselves or repeat previous assignments.
+The Secret Santa Script automates the process of assigning Secret Children (gift recipients) to employees based on provided employee and previous year's assignment data. It ensures that employees do not assign themselves or repeat previous assignments.
 
 This Python script allows you to:
 - Input a list of employees with their details.
